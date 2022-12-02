@@ -16,7 +16,7 @@ future.</Title>
         </div>
         <div className='col-lg-0 col-md-1 col-12'></div>
         <div className='col-lg-7 col-md-4 col-12 mt-md-0 mt-5 img-bg' >
-            <img  src='./img/4th.png' className='d-block d-lg-none w-100' />
+            <img  src='./img/4th.png' className='d-block d-lgnone w-100' />
         </div>
       
       </div>
