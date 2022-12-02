@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 import { Button, Modal, Container } from "react-bootstrap";
-import axios from "axios";
+// import axios from "axios";
 import { useState, useEffect, useRef } from "react";
 
 export default function ModalComponent({ link,src, description, title, ...props }) {
